@@ -65,6 +65,7 @@ import com.qualcomm.robotcore.util.ElapsedTime;
 @Autonomous(name="Rabbot: Auto Drive By Encoder", group="Rabbot")
 // @Disabled
 public class JCHSRabbotAutoDriveByEncoder_Linear extends JCHSRabbotAutonomous {
+    //Hi Alex
 
     /* Declare OpMode members. */
     JCHSHardwareRabbot      rabbot = new JCHSHardwareRabbot();   // Use a Pushbot's hardware
